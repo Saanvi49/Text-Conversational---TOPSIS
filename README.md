@@ -1,5 +1,5 @@
 ## Overview
-This project aims to evaluate the performance of various language models in generating responses to predefined prompts. The models are evaluated based on BLEU and ROUGE scores, as well as response length. Additionally, TOPSIS analysis is performed to rank the models.<br />
+The objective of this project is to assess the effectiveness of different language models in generating responses to predetermined prompts. The evaluation criteria include BLEU and ROUGE scores, as well as response length. Furthermore, the project incorporates TOPSIS analysis to rank the language models based on their performance.<br />
 
 ## Project Structure
 Evaluation Script: The main script (evaluate_models.py) contains the code for evaluating the language models using BLEU, ROUGE, and TOPSIS analysis.<br />
